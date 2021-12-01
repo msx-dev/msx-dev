@@ -11,7 +11,7 @@ Things I will be learning in the future:
 :iphone: Mobile development (React Native)
 
 Currently looking for: 
-:handshaking: Fun and interesting projects to collab on and learn new things. 
+:handshake: Fun and interesting projects to collab on and learn new things. 
 
 <!--
 **msx-dev/msx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
