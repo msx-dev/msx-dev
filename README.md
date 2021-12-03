@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm MSX-Dev, I'm a developer with interest in Web Technologies and also Data Science. 
+I'm a developer with interest in Web Technologies and also Data Science. 
 
 Skills that I am currently comfortable working with:     
    
