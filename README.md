@@ -2,7 +2,7 @@
 
 I'm MSX-Dev, I'm a developer with interests in web technologies and also data science. 
 
-Skills that I am currently comfortably working with: 
+Skills that I am currently comfortably working with:     
 :computer: HTML, CSS, JS, Python
 :factory: Node.JS, Express.JS, React.JS, Bootstrap
 :floppy_disk: MongoDB (Mongoose)
