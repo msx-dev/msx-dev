@@ -1,20 +1,25 @@
 ### Hi there 👋
 
-I'm MSX-Dev, I'm a developer with interests in web technologies and also data science. 
+I'm MSX-Dev, I'm a developer with interest in Web Technologies and also Data Science. 
 
-Skills that I am currently comfortably working with:     
+Skills that I am currently comfortable working with:     
    
-:computer: HTML, CSS, JS, Python  
+:computer:  HTML, CSS, JS, Python  
    
-:factory: Node.JS, Express.JS, React.JS, Bootstrap  
+:factory:  Node.JS, Express.JS, React.JS, Bootstrap  
     
-:floppy_disk: MongoDB (Mongoose)
-  
+:floppy_disk:  MongoDB (Mongoose)
+ 
+Skills that I am willing to learn in order to work on new interesting projects:
+
+:muscle:  Anything
 
 Things I will be learning in the future:   
-:iphone: Mobile development (React Native)
+   
+:iphone:  Mobile development (React Native)
 
 Currently looking for:   
+  
 :handshake: Fun and interesting projects to collab on and learn new things. 
 
 <!--
