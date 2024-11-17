@@ -7,7 +7,7 @@ ________________________________________________________
 
 Skills that I am currently comfortable working with:     
    
-:computer:  HTML, CSS, JS, Python  
+:computer:  HTML, CSS, JS, TS, Python  
    
 :factory:  Node.JS, Express.JS, React, Next.js, React Native, FastAPI 
     
