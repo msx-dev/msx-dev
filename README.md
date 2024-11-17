@@ -9,7 +9,7 @@ Skills that I am currently comfortable working with:
    
 :computer:  HTML, CSS, JS, Python  
    
-:factory:  Node.JS, Express.JS, React.JS, React Native, Bootstrap  
+:factory:  Node.JS, Express.JS, React, Next.js, React Native, FastAPI 
     
 :floppy_disk:  MongoDB (Mongoose), PostgreSQL
  
